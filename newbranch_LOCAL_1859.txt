@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< .merge_file_a04272
 zdthzdth
 zdhdthzxt
@@ -18,11 +17,3 @@ wgbwrgb
 >>>>>>> .merge_file_a05624
 =======
 >>>>>>> 1
-=======
-stbstrh
-strrths
-bbsrbrb
-sbrtbrt
-bsfsttbsrb
-
->>>>>>> 2
