@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< .merge_file_a01200
 zdthdthd
 gehdxh
@@ -5,6 +6,8 @@ g
 aeghsdhrsy
 dhxdhsh
 =======
+=======
+>>>>>>> 1
 wrbwreb
 wgbgwrb
 wrgbergb
